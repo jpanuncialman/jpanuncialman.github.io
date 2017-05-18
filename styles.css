@@ -95,7 +95,7 @@ nav#menu {
   -webkit-transition-delay: 0.3s, 0s;
   transition-delay: 0.3s, 0s;
   position: fixed;
-  right: -273px;
+  right: -500px;
   top: 0;
   height: 100vh;
   width: 25vw;
